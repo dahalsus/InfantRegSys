@@ -1,0 +1,11 @@
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\bin\Debug\netcoreapp2.0\ASPCoreWithAgular.deps.json
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\bin\Debug\netcoreapp2.0\ASPCoreWithAgular.runtimeconfig.json
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\bin\Debug\netcoreapp2.0\ASPCoreWithAgular.runtimeconfig.dev.json
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\bin\Debug\netcoreapp2.0\ASPCoreWithAgular.dll
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\bin\Debug\netcoreapp2.0\ASPCoreWithAgular.pdb
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.csprojResolveAssemblyReference.cache
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.csproj.CoreCompileInputs.cache
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.AssemblyInfoInputs.cache
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.AssemblyInfo.cs
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.dll
+C:\Users\Loui\source\repos\ASPCoreWithAgular\ASPCoreWithAgular\obj\Debug\netcoreapp2.0\ASPCoreWithAgular.pdb
