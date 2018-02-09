@@ -1,0 +1,17 @@
+<div class="row col-md-offset-4">
+    <div class="col-sm-6" style="border:1px solid grey;">
+        <form class="form-auth">
+            <h2 class="form-auth-heading">IPAN User Sign In</h2>
+
+            <div class="alert alert-danger" ng-if="lc.loginError" role="alert">{{ lc.loginErrorMessage }}</div>
+
+            <label for="inputUsername" class="sr-only">Username</label>
+            <input type="text" id="inputUsername" ng-model="lc.username" class="form-control" placeholder="Username" style="margin-bottom: 5px" required autofocus>
+            <label for="inputPassword" class="sr-only">Password</label>
+            <input type="password" id="inputPassword" ng-model="lc.password" class="form-control" placeholder="Password" style="margin-bottom: 50px"required>
+            <a href="/" style="text-decoration: none;"><button class="btn btn-lg btn-basic btn-block" style="margin-bottom: 5px">Back</button></a>
+            <button class="btn btn-lg btn-primary btn-block" type="submit" ng-click="lc.login()">Sign In</button>
+            </br>
+        </form>
+    </div>
+</div>
